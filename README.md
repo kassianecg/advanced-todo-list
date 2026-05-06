@@ -2,7 +2,7 @@
 
 Uma aplicação de lista de tarefas elegante, responsiva e totalmente client-side, construída com HTML, CSS e JavaScript puro — sem frameworks, sem dependências externas.
 
-![Preview](bg.jpg)
+![Preview](preview.jpg)
 
 ---
 
